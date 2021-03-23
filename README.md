@@ -5,7 +5,7 @@ A MCreator example project that uses NBT variables to make a energy system simil
 See the planned features [here](https://github.com/MCreator-Examples/Variable-Energy/projects/1) for more information on what I am working towards for this project.
 
 ## Wiki
-See the the wiki [here](https://github.com/MCreator-Examples/wiki) for more information on key features of the project, tutorials, lists and more.
+See the the wiki [here](https://github.com/MCreator-Examples/Variable-Energy/wiki) for more information on key features of the project, tutorials, lists and more.
 
 # DOWNLOADS
 The latest workspace is 1.3.0!
