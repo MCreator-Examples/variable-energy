@@ -2,7 +2,7 @@
 A MCreator example project that uses NBT variables to make a energy system similar to Forge Energy.
 
 # DOWNLOADS
-The latest workspace is 1.2.0!
+The latest workspace is 1.3.0!
 | Version | MCreator Build | Forge Build | MinecrafT Build | Download Page | Tutorials |
 | --- | --- | --- | --- | --- | --- |
 | 1.3.0 | 2020.5 | 31.2.0 | 1.15.2 | [Download](https://github.com/MCreator-Examples/Variable-Energy/releases/tag/1.3.0) | [YouTube](https://youtu.be/yXQUGSn3hy4) |
