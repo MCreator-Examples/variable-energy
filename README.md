@@ -7,6 +7,11 @@ See the planned features [here](https://github.com/MCreator-Examples/Variable-En
 ## Wiki
 See the the wiki [here](https://github.com/MCreator-Examples/Variable-Energy/wiki) for more information on key features of the project, tutorials, lists and more.
 
+## Feature Requests & Bug Reports
+You can submit bug reports and feature requests [here](https://github.com/MCreator-Examples/Variable-Energy/issues/new/choose).    
+We may not add all features and may not be able to fix all bugs,    
+but telling us about them will be a good way to contribute to the project.
+
 # DOWNLOADS
 The latest workspace is 1.3.0!
 | Version | MCreator Build | Forge Build | MinecrafT Build | Download Page | Videos |
