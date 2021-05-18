@@ -1,22 +1,39 @@
-# ABOUT
-A MCreator example project that uses NBT variables to make a energy system similar to Forge Energy.
+# VARIABLE ENERGY
+Project files for the [MCreator](https://mcreator.net/) example and tutorial. 
 
-## Planned Features
-See the planned features [here](https://github.com/MCreator-Examples/Variable-Energy/projects/1) for more information on what I am working towards for this project.
+## OVERVIEW
+Download for MCreator 2020.5 / Minecraft Forge 1.15.2
 
-## Wiki
-See the the wiki [here](https://github.com/MCreator-Examples/Variable-Energy/wiki) for more information on key features of the project, tutorials, lists and more.
+### LICENCE
+Open-Source / optional credits
 
-## Feature Requests & Bug Reports
-You can submit bug reports and feature requests [here](https://github.com/MCreator-Examples/Variable-Energy/issues/new/choose).    
-We may not add all features and may not be able to fix all bugs,    
-but telling us about them will be a good way to contribute to the project.
+### CREDITS
+Textures have been made by NorthWestTrees Gaming.
+Procedures have been built by NorthWestTrees Gaming.
 
-# DOWNLOADS
-The latest workspace is 1.3.0!
-| Version | MCreator Build | Forge Build | MinecrafT Build | Download Page | Videos |
-| --- | --- | --- | --- | --- | --- |
-| 1.3.0 | 2020.5 | 31.2.0 | 1.15.2 | [Download](https://github.com/MCreator-Examples/Variable-Energy/releases/tag/1.3.0) | [Tutorials](https://github.com/MCreator-Examples/Variable-Energy/wiki/Official-Tutorials-List) |
-| 1.2.0 | 2020.5 | 31.2.0 | 1.15.2 | [Download](https://github.com/MCreator-Examples/Variable-Energy/releases/tag/1.2.0) | [Tutorials](https://github.com/MCreator-Examples/Variable-Energy/wiki/Official-Tutorials-List) |
-| 1.1.0 | 2020.5 | 31.2.0 | 1.15.2 | [Download](https://github.com/MCreator-Examples/variable-energy/releases/tag/1.1.0) | [Tutorials](https://github.com/MCreator-Examples/Variable-Energy/wiki/Official-Tutorials-List) |
-| 1.0.0 | 2020.5 | 31.2.0 | 1.15.2 | [Download](https://github.com/MCreator-Examples/variable-energy/releases/tag/1.0.0) | [Tutorials](https://github.com/MCreator-Examples/Variable-Energy/wiki/Official-Tutorials-List) |
+### CONTENTS
+* MCreator Workspace
+* MCreator Procedures
+* Client/Development Minecraft Mod Jars
+* Item Textures
+* Block Textures
+
+### CHANGES
+* Fixed issue with Cable Junctions not passing energy down.
+* Fixed issue with Cable Junctions not sending energy evenly.
+* Added Settings Device item to check energy and other settings of blocks.
+* Added Right-Click event for Setting Devive to Solar Panels, Cables, and Cable Junctions.
+
+## LATEST DOWNLOAD
+| [![Download](https://i.imgur.com/Xcxx2Gr.png)](https://github.com/MCreator-Examples/Variable-Energy/files/6191560/variable_energy_1_3_0.zip) | Download v1.3.0 |
+| --- | --- |
+
+## OLDER DOWNLOADS
+Read this [wiki page](https://github.com/MCreator-Examples/Variable-Energy/wiki/Downloads) for a list of all older download pages
+
+## TUTORIALS
+* [YouTube: Energy Meter](https://youtu.be/yXQUGSn3hy4) - Published on 2021-03-19
+* [YouTube: Junctions](https://youtu.be/PFY7rGRHYO0) - Published on 2021-03-23
+
+## GALLERY
+![Recipe Book](https://i.imgur.com/rltZnsw.png)
