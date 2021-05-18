@@ -36,4 +36,4 @@ Read this [wiki page](https://github.com/MCreator-Examples/Variable-Energy/wiki/
 * [YouTube: Junctions](https://youtu.be/PFY7rGRHYO0) - Published on 2021-03-23
 
 ## GALLERY
-![Recipe Book](https://i.imgur.com/rltZnsw.png)
+![Variable Energy](https://i.imgur.com/rltZnsw.png)
